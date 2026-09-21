@@ -6,12 +6,16 @@ Kelas: B
 ## Penjelasan Studi Kasus
 Sistem Manajemen Peminjaman Alat Laboratorium adalah sebuah program yang digunakan untuk mengelola proses peminjaman dan pengembalian alat laboratorium. Sistem ini mencakup pencatatan data alat, data peminjaman, proses peminjaman, serta pengembalian alat. Sistem ini membantu mengatur proses peminjaman alat laboratorium menjadi lebih terstruktur dan mudah dipantau.
 <br>
+
+<p>
 Program ini memiliki beberapa fitur, yaitu:
 1. Menampilkan daftar alat laboratorium beserta kondisi dan stok.
 2. Menambahkan data peminjaman alat.
 3. Menampilkan riwayat peminjaman.
 4. Mengembalikan alat berdasarkan ID peminjaman.
 5. Mengubah stok alat secara otomatis ketika alat dipinjam atau dikembalikan.
+</p>
+
 <br>
 Pada program ini terdapat 2 class dan 1 subclass, yaitu *Alat, Peminjaman,* dan *AlatBedah*. Data alat dan data peminjaman disimpan menggunakan *ArrayList*.
 

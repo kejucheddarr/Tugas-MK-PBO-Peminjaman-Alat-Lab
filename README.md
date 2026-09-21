@@ -1,6 +1,8 @@
 # Tugas-PBO-Peminjaman-Alat-Lab
 Nama: Nabila Salma Putri
+
 NIM: 2509116065
+
 Kelas: B
 
 ## Penjelasan Studi Kasus

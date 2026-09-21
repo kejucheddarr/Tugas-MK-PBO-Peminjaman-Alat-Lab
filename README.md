@@ -33,15 +33,20 @@ Pada kode di atas, karena class *AlatBedah& merupakan subclass dari class *Alat*
 ## Dokumentasi Program
 ### Tampilan Awal
 <img width="999" height="576" alt="image" src="https://github.com/user-attachments/assets/ca316e5e-cc73-4dfa-98e6-6dbc5e8bc35b" />
+<br>
 ### 1. Tampilkan Alat
 <img width="623" height="662" alt="image" src="https://github.com/user-attachments/assets/99dcee17-c5c6-44f6-a39f-8180e753fb21" />
+<br>
 ### 2. Tambahkan Peminjaman
 Disini, petugas sebagai pengguna dapat mengisi namanya, nama alat yang ingin dipinjam, dan jumlah yang dipinjam.
 <br>
 <img width="501" height="400" alt="image" src="https://github.com/user-attachments/assets/c490e3fa-bbe7-4e7e-ae6a-4d9227e95552" />
+<br>
 ### 3. Tampilkan Riwayat Peminjaman
 <img width="607" height="487" alt="image" src="https://github.com/user-attachments/assets/5b7b7e22-9db7-4c5b-adb8-436712092454" />
+<br>
 ### 4. Kembalikan Alat
 <img width="549" height="319" alt="image" src="https://github.com/user-attachments/assets/5c7d2149-acdc-414a-8dc7-756f9cde9444" />
+<br>
 ### 5. Keluar
 <img width="818" height="391" alt="image" src="https://github.com/user-attachments/assets/9e100135-636b-4396-9fd2-848c6856e1f8" />

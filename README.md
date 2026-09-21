@@ -18,11 +18,13 @@ Pada program ini terdapat 2 class dan 1 subclass, yaitu *Alat, Peminjaman,* dan 
 
 ## Penjelasan Hierarki Kelas
 Hierarki class pada program ini adalah:
+
 Alat (superclass)
+<br>
 └── AlatBedah (subclass)
-<br>
+
 Class *Alat* merupakan superclass yang menyimpan atribut dan method umum untuk alat laboratorium, sementara class *AlatBedah* adalah sebuah subclass dari Alat yang mewarisi atribut dan method dari superclass tersebut. Selain itu, *AlatBedah* memiliki atribut tambahan yaitu bahan untuk menyimpan informasi bahan dari alat bedah.
-<br>
+
 
 ## Penjelasan Kode (Penerapan Inheritance)
 Penerapan inheritance pada program terdapat pada class *AlatBedah* yang merupakan turunan dari class *Alat*. Hal ini ditunjukkan dengan penggunaan keyword extends.

@@ -31,7 +31,7 @@ Penerapan inheritance pada program terdapat pada class *AlatBedah* yang merupaka
 <br>
 <img width="1189" height="194" alt="image" src="https://github.com/user-attachments/assets/77b1637e-01b6-49f9-8456-af3c8c6f91dd" />
 <br>
-Pada kode di atas, karena class *AlatBedah& merupakan subclass dari class *Alat*, *AlatBedah* dapat menggunakan atribut dan method yang diwarisi dari class *Alat*. Penggunaan *super()* pada konstruktor *AlatBedah* digunakan untuk memanggil konstruktor dari class *Alat* dan memberikan nilai pada atribut *idAlat, namaAlat, kondisiAlat,* dan *stokAlat*. *AlatBedah* juga memiliki atribut tambahan selain atribut yang diwarisi, yaitu atribut *bahan* yang digunakan untuk menyimpan informasi bahan dari alat bedah.
+Pada kode di atas, karena class *AlatBedah* merupakan subclass dari class *Alat*, *AlatBedah* dapat menggunakan atribut dan method yang diwarisi dari class *Alat*. Penggunaan *super()* pada konstruktor *AlatBedah* digunakan untuk memanggil konstruktor dari class *Alat* dan memberikan nilai pada atribut *idAlat, namaAlat, kondisiAlat,* dan *stokAlat*. *AlatBedah* juga memiliki atribut tambahan selain atribut yang diwarisi, yaitu atribut *bahan* yang digunakan untuk menyimpan informasi bahan dari alat bedah.
 
 ## Dokumentasi Program
 ### Tampilan Awal

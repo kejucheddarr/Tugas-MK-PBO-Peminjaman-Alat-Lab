@@ -15,7 +15,7 @@ Program ini memiliki beberapa fitur, yaitu:
 4. Mengembalikan alat berdasarkan ID peminjaman.
 5. Mengubah stok alat secara otomatis ketika alat dipinjam atau dikembalikan.
 </p>
-<br>
+
 Pada program ini terdapat 2 class dan 1 subclass, yaitu *Alat, Peminjaman,* dan *AlatBedah*. Data alat dan data peminjaman disimpan menggunakan *ArrayList*.
 
 ## Penjelasan Hierarki Kelas
